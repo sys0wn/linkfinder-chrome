@@ -6,3 +6,7 @@
 git clone https://github.com/sys0wn/linkfinder-chrome/
 ```
 Then go to chrome://extensions, enable developer mode, click `Load unpacked` and select the folder `linkfinderChromeExtension`
+
+---
+
+Uses the script from http://0-a.nl/jsendpoints.txt to do the actual logic of extracting the links from the html, fetching all the external js and then extracting all the links from that.
