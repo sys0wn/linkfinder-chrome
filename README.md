@@ -9,4 +9,4 @@ Then go to chrome://extensions, enable developer mode, click `Load unpacked` and
 
 ---
 
-Uses the script from http://0-a.nl/jsendpoints.txt to do the actual logic of extracting the links from the html, fetching all the external js and then extracting all the links from that.
+Uses the logic from http://0-a.nl/jsendpoints.txt to extract the links from the html, fetching all the external js and then extracting all the links from that.
